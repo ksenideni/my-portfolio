@@ -1,0 +1,7 @@
+.home img {
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  margin-top: 20px;
+}
