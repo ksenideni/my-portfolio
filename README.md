@@ -6,14 +6,12 @@
 
 1. Склонируй репозиторий:
 
-```bash
 git clone https://github.com/ksenideni/my-portfolio.git
 cd my-portfolio
 
 
 2. Запустите проект:
 
-```bash
 npm run dev
 
 
